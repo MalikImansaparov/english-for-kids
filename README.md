@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
+Demo: https://malikimansaparov-jsfe2021q1-english-for-kids.netlify.app
 ### Features
 
 ### Built With
