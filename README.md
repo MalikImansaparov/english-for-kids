@@ -1,6 +1,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![Screenshot (189)](https://user-images.githubusercontent.com/50579392/150682042-f87610e6-c202-4aa5-99ec-3e992fc2175c.png)
+
 Demo: https://malikimansaparov-jsfe2021q1-english-for-kids.netlify.app
 
 ### Features
