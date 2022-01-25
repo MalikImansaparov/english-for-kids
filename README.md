@@ -10,6 +10,8 @@ Demo: https://malikimansaparov-jsfe2021q1-english-for-kids.netlify.app
 - Game mode
 - Select category
 - Statistic
+- Audio words
+- Translate words
 
 ### Built With
 - React
@@ -21,7 +23,7 @@ Demo: https://malikimansaparov-jsfe2021q1-english-for-kids.netlify.app
 
 ## Installation
 ### Prerequisites
-- Webpack 
+- CRA 
 - npm
 
 ### Setup
