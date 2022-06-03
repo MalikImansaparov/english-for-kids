@@ -13,11 +13,13 @@ Demo: https://malikimansaparov-jsfe2021q1-english-for-kids.netlify.app
 - Audio words
 - Translate words
 
+
 ### Built With
 - React
 - TypeScript
 - SCSS
 - Bootstrap
+- React-Router
 - Eslint 
 - Prettier
 
