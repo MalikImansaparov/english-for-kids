@@ -1,14 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useHistory } from 'react-router-dom';
-
 import Card from './card';
 import GameMode from './game-mode';
 import ButtonPlay from './button-play';
 import { MainMenu } from '../final-page/buttons-finish';
 import './game-field.scss';
-
 import { countingStatistics } from '../statistics/statistics';
-
 import data from '../../assets/JSON/cards.json';
 import star from '../../assets/icons/star-win.svg';
 import emptyStar from '../../assets/icons/star.svg';
